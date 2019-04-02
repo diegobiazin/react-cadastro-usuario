@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Diego Biazin",
+            "email": "diego.biazin@hotmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Nathália Biazin",
+            "email": "nathalia.biazin@hotmail.com"
+        }
+    ]
+}
